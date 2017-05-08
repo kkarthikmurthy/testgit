@@ -31,9 +31,9 @@ public class AgentInqDaoImplTest {
 		Assert.assertEquals("SUCCESS", salesHierarchyDetailResponse
 				.getResult());
 
+
+
+
+
 	}
 }
-
-
-
-
